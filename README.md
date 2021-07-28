@@ -1,4 +1,4 @@
-# ejerciciosSoyDalto
+#historiasDeCofla
 Ejercicios basados en el curso de Javascript de @soyDalto
 Ejercicios basados en el curso JAVASCRIPT desde CERO (Completo) - Nivel JUNIOR creado por Lucas Dalto, @soyDalto, #EduTuber de ciencia y tecnología.
 
