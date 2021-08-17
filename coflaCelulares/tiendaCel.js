@@ -60,7 +60,11 @@ class CelularAltaGama extends CelularBase {
 	detectarRostro(){
 		return `Detección de rostro completada`
 		;
-	}	
+	}
+	grabarLento(){
+		return `Grabación en cámara lenta completada`
+		;
+	}		
 
 }
 
@@ -92,6 +96,8 @@ alert(celulares[0].reiniciar());
 alert(celulares[0].tomarFoto());
 alert(celulares[0].grabarVideo());
 alert(celularesAltaGama[0].detectarRostro());
+alert(celularesAltaGama[0].grabarLento());
+
 alert(celulares[0].encenderBtn());
 
 
